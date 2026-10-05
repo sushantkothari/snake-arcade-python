@@ -38,7 +38,7 @@ The repository demonstrates applied **Software Engineering**, **Object-Oriented 
 
 ### Elevating Classic Arcade Mechanics
 
-Traditional beginner Snake implementations suffer from several structural limitations:
+Basic Snake implementations typically have several structural limitations:
 - **Monolithic Scripting:** Combining input handling, physics, state update, and rendering inside a single monolithic loop leads to fragile, unmaintainable code.
 - **Static Difficulty:** Fixed game speed and lack of environmental hazards result in monotonous gameplay.
 - **Lack of Visual Feedback:** Rigid grid blocks and minimal animations diminish player immersion and feedback clarity.
